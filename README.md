@@ -1,7 +1,7 @@
 # hello-world
 first repository by Frank1124Dev
 
-Hi First repository
+Hello Frank
 Go ahead
 Fighting!!
 
