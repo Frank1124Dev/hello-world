@@ -12,6 +12,17 @@ import javax.servlet.http.HttpServletResponse;
 import com.itheima.entity.Book;
 import com.itheima.util.DBUtil;
 
+	/**
+	 * The doGet method of the servlet. <br>
+	 *
+	 * This method is called when a form has its tag value method equals to get.
+	 * 
+	 * @param request the request send by the client to the server
+	 * @param response the response send by the server to the client
+	 * @throws ServletException if an error occurred
+	 * @throws IOException if an error occurred
+	 */
+
 public class ShowAllBooksServlet extends HttpServlet {
 
 	public void doGet(HttpServletRequest request, HttpServletResponse response)
